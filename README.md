@@ -31,26 +31,17 @@ Plotly
 ydata_profiling
 streamlit_pandas_profiling
 Installation
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-profile/your-repository.git
-Navigate to the project directory:
 
-bash
-Copy code
+
 cd your-repository
 Install the required Python packages:
 
-bash
-Copy code
+
 pip install -r requirements.txt
 Running the Application
 Launch the Streamlit application:
 
-bash
-Copy code
 streamlit run app.py
 Open your web browser and navigate to http://localhost:8501 to access the application.
 
